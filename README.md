@@ -12,8 +12,10 @@
 
 *OUTPUT*:
 
-![Image](https://github.com/user-attachments/assets/69607119-eed1-4145-8fa7-ca3a317c4424)
+<img width="657" height="516" alt="Image" src="https://github.com/user-attachments/assets/324183b6-483e-4051-97d1-806c94ba2bca" />
 
-![Image](https://github.com/user-attachments/assets/28eaf16d-3c70-4ba2-8bdd-dd752b2fea84)
+<img width="720" height="672" alt="Image" src="https://github.com/user-attachments/assets/21ac157f-f1cb-4b15-9c82-cf14d8d68972" />
 
-![Image](https://github.com/user-attachments/assets/743a288a-f260-48d0-84fc-c5170694ea7c)
+<img width="636" height="504" alt="Image" src="https://github.com/user-attachments/assets/42217fa8-4ed4-46d2-b14b-34c69a64f83d" />
+
+<img width="1764" height="737" alt="Image" src="https://github.com/user-attachments/assets/5dcce4e0-bc3f-40b9-8369-fef1b67c7f0b" />
